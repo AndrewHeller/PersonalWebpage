@@ -1,0 +1,17 @@
+body {
+  background: url(http://i.imgur.com/a9bgPFs.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+div {
+    position:absolute;
+    background:#7f7f7f;
+    background:rgba(0,0,0,0.5);
+    height: 103.8vh;
+    left: 50%;
+    margin: -140px 0 0 -150px;
+    top:14%;
+    width: 550px;
+    z-index: 15;
+}
